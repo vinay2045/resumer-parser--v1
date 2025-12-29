@@ -1,0 +1,9 @@
+streamlit
+fastapi
+uvicorn
+pymongo
+pdfplumber
+spacy
+python-dotenv
+google-generativeai
+python-multipart
